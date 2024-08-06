@@ -1,0 +1,82 @@
+{
+    "workbench.colorTheme": "Viow Neon",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontFamily": "JetBrains Mono, Consolas, 'Courier New', monospace",
+    "editor.fontSize": 18,
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.inlineSuggest.enabled": true,
+    "editor.minimap.enabled": false,
+    "editor.fontLigatures": true,
+    "cSpell.enabled": false,
+    "cSpell.diagnosticLevel": "Hint",
+    "files.formatOnPaste": true,
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": false,
+        "markdown": true,
+        "scminput": false
+    },
+    "security.workspace.trust.untrustedFiles": "open",
+    "git.openRepositoryInParentFolders": "always",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8",
+        "editor.formatOnSave": true
+    },
+    "better-comments.tags": [
+        {
+            "tag": "!",
+            "color": "#FF2D00",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "?",
+            "color": "#3498DB",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "//",
+            "color": "#474747",
+            "strikethrough": true,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "todo",
+            "color": "#FF8C00",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "*",
+            "color": "#98C379",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        }
+    ],
+    "[markdown]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnPaste": true
+    },
+    "files.autoSave": "afterDelay",
+    "github.copilot.editor.enableAutoCompletions": true,
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "git.enableSmartCommit": true
+}
