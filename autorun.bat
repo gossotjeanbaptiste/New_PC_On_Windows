@@ -1,6 +1,5 @@
 start a_exec/<Winget>
 start a_exec/<Google Drive>
-start a_exec/<Arc From The Browser Company>
 start a_exec/<nom_du_fichier_Java>
 start a_exec/<nom_du_fichier_Python>
 start a_exec/<MinGW>
